@@ -1,0 +1,5 @@
+Ctrl + B 主侧边栏
+Ctrl + alt +B 辅助侧边栏
+Ctrl + shift + x 拓展
+Ctrl + shift + G git提交
+ctrl + E ctrl + E 资源管理器
